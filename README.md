@@ -14,7 +14,8 @@ Here are some ideas to get you started:
  ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on my final univeristy project/dissertation
-- 🌱 I’m currently learning a lot about Wireless Networking
+- 🔭 I’m currently working on some personal projects between finishing Uni and starting my new job
+- 📚 I’m currently learning a lot about microcontrollers, especially on the Raspberry Pico
 - 😄 Pronouns: He/Him
-- 📚 I love learning about cybersecurity 
+- 💬 Ask me about any of my public projects
+
